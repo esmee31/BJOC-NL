@@ -68,6 +68,8 @@ build a program - bouw een programma
 
 build a block - bouw een blok
 
+gossip - kletsen
+
 ## Div class / zinnen
 
 For you to do - Wat je moet doen
